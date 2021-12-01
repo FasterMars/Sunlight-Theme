@@ -1,0 +1,13 @@
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\bin\Debug\Colors.pkgdef
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\bin\Debug\icon.png
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\bin\Debug\LICENSE.txt
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\bin\Debug\Properties\Colors.pkgdef
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\obj\Debug\Sunlight-Theme.csprojAssemblyReference.cache
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\obj\Debug\Sunlight-Theme.csproj.CoreCompileInputs.cache
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\obj\Debug\Sunlight-Theme.dll
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\obj\Debug\Sunlight-Theme.pdb
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\bin\Debug\Sunlight-Theme.vsix
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\bin\Debug\extension.vsixmanifest
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\obj\Debug\extension.vsixmanifest
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\obj\Debug\files.json
+C:\Users\admin\Documents\Github\Sunlight-Theme\Sunlight-Theme\Sunlight-Theme\obj\Debug\createTemplateManifests.cache
