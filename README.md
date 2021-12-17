@@ -16,6 +16,4 @@ The theme is supported on the following versions of Visual studio:
 1. Go to releases section and download the VSIX File, and double click to install.
 2. After installing, go into Visual Studio and `Tools > Extensions and Updates` and select the theme.
 
-# Publisher
-
-Made by FasterMars16
+© 2021 FasterMars
