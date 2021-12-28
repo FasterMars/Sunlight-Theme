@@ -1,4 +1,4 @@
-# Sunlight-Theme
+# Sunlight-Theme [DEPRECATED]
 ![image](https://img.shields.io/badge/Discord-Online-blue) 
   A theme designed for Visual Studio to make coding during the day fun.
 
